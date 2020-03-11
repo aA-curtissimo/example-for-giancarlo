@@ -6,3 +6,5 @@ class Splitter {
 	System.out.println(lines.length);
     }
 }
+
+// New code
