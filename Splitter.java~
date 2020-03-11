@@ -1,0 +1,6 @@
+class Splitter {
+    public static void main(String[] args) {
+	String value = "\n";
+	System.out.println(value.split("\n")[0]);
+    }
+}
